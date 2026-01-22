@@ -1,0 +1,1 @@
+## Notes on Variables and Iterators
